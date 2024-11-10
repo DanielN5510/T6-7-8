@@ -1,0 +1,85 @@
+{
+  "habitaciones": [
+    {
+      "id": "101",
+      "numero": 101,
+      "nombre": "Bosque Encantado",
+      "tipo": "Doble",
+      "precio": 80,
+      "reservada": false,
+      "fechaDisponibilidad": "2023-12-01"
+    },
+    {
+      "id": "102",
+      "numero": 102,
+      "nombre": "Paraíso Floral",
+      "tipo": "Suite",
+      "precio": 150,
+      "reservada": false,
+      "fechaDisponibilidad": "2023-12-15"
+    },
+    {
+      "id": "103",
+      "numero": 103,
+      "nombre": "Cumbre Serena",
+      "tipo": "Individual",
+      "precio": 50,
+      "reservada": false,
+      "fechaDisponibilidad": "2023-12-05"
+    },
+    {
+      "id": "201",
+      "numero": 201,
+      "nombre": "Lago Azul",
+      "tipo": "Doble",
+      "precio": 85,
+      "reservada": false,
+      "fechaDisponibilidad": "2023-12-10"
+    },
+    {
+      "id": "202",
+      "numero": 202,
+      "nombre": "Jardín Zen",
+      "tipo": "Suite",
+      "precio": 160,
+      "reservada": false,
+      "fechaDisponibilidad": "2023-12-18"
+    },
+    {
+      "id": "203",
+      "numero": 203,
+      "nombre": "Valle Verde",
+      "tipo": "Individual",
+      "precio": 55,
+      "reservada": false,
+      "fechaDisponibilidad": "2023-12-03"
+    },
+    {
+      "id": "301",
+      "numero": 301,
+      "nombre": "Montaña Púrpura",
+      "tipo": "Doble",
+      "precio": 90,
+      "reservada": false,
+      "fechaDisponibilidad": "2023-12-20"
+    },
+    {
+      "id": "302",
+      "numero": 302,
+      "nombre": "Bosque Eterno",
+      "tipo": "Suite",
+      "precio": 170,
+      "reservada": false,
+      "fechaDisponibilidad": "2023-12-22"
+    },
+    {
+      "id": "303",
+      "numero": 303,
+      "nombre": "Oasis Dorado",
+      "tipo": "Individual",
+      "precio": 60,
+      "reservada": false,
+      "fechaDisponibilidad": "2023-12-08"
+    }
+  ]
+}
